@@ -18,7 +18,8 @@ para agregar mis cambio puedo hacer:
 git add . (todo) o
 git add "nombre del archivo"
 
-con GIT STATUS vemos los archivos que estan listos
-para añadir
+con GIT STATUS vemos los archivos que estan listo s
+FECHA NUEVA PRUEBA
+para aÃ±adir
 
 
