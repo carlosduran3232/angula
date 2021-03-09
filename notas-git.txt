@@ -1,0 +1,24 @@
+Como instalar Git tener gitbash
+
+por consola hacemos:
+Crear repositorio:
+1. en desktop creamos la carpeta:
+mkdir "nombre de la carpeta"
+
+2. entramos a la carpeta y decimos git init
+
+PARA CLONAR UN REPOSITORIO:
+
+1. git clone y me traigo la url del 
+proyecto de github
+
+DIRECTORIO DE TRABAJO:
+
+para agregar mis cambio puedo hacer:
+git add . (todo) o
+git add "nombre del archivo"
+
+con GIT STATUS vemos los archivos que estan listos
+para añadir
+
+
